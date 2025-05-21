@@ -1,6 +1,6 @@
 baseURL = "http://holgi.beer/"
 languageCode = "de-DE"
-title = "holgi.beer"
+title = "holgi.beer #homebrew"
 theme = "m10c"
 pagination.pagerSize = 10
 
