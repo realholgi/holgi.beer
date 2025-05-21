@@ -1,0 +1,51 @@
+baseURL = "http://holgi.beer/"
+languageCode = "de-DE"
+title = "holgi.beer"
+theme = "m10c"
+pagination.pagerSize = 10
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "sude"
+    name = "Sude"
+    url = "/sude/"
+    weight = 2
+
+  # [[menu.main]]
+  #   identifier = "gallerie"
+  #   name = "Gallerie"
+  #   url = "/gallerie"
+  #   weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Über"
+    url = "/about/"
+    weight = 4
+
+[params]
+  author = "Holger Eiboeck"
+  description = "handgebraut ★ immer gut ★ immer anders"
+  menu_item_separator = " | "
+  #avatar = "/images/brauer.png"
+  avatar = "/images/avatar.jpg"
+
+  [[params.social]]
+    icon = "mail"
+    name = "Mail"
+    url = "mailto:holger@eiboeck.de"
+
+  [params.style]
+    darkestColor = "#eee" # bg side
+    darkColor = "#fff" # bg
+    lightColor = "#777" # text + 
+    lightestColor = "#333" # main title / überschrift
+    primaryColor = "#FF9900" # "#f40202" # round
+
