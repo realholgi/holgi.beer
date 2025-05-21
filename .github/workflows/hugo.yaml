@@ -3,17 +3,9 @@ name: Deploy Hugo site to Pages
 
 on:
   # Runs on pushes targeting the default branch
-  repository_dispatch:
-    types: [trigger-hugo]
   push:
-    paths:
-      - 'static/**'
-      - 'content/**'
     branches:
       - main
-  # workflow_run:
-  #  workflows: ["Convert Mastodon Posts to Markdown"]
-  #  types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
