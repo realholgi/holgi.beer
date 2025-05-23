@@ -1,4 +1,4 @@
-baseURL = "http://holgi.beer/"
+baseURL = "https://holgi.beer/"
 languageCode = "de-DE"
 title = "holgi.beer #homebrew"
 theme = "m10c"
