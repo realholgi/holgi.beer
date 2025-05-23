@@ -16,7 +16,7 @@ der [Peltier-Elemente](http://www.ebay.de/itm/2Stk-TEC1-12705-12708-12709-12712-
 ![Achtung Fräs-Betrieb!](/images/fraes.jpg)
 Achtung Fräs-Betrieb!
 
-![Aufgeschraubt](/images/proto1jpg.jpg)
+![Aufgeschraubt](/images/proto1.jpg)
 Aufgeschraubt
 
 Die geformte Alu-Platte wird am BrewBucket befestigt, indem unten am Gefäß ein Wulst aus "UHU Repair All Powerkitt"
