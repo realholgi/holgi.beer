@@ -6,7 +6,7 @@ tags: [ "brau-gerätschaft" ]
 
 Das Innenleben der Steuerung habe ich auf ESP8266 modernisiert und durch ein getrenntes Netzteil (Meanwell 5V) auch
 stromtechnisch etwas vereinfacht.
-Das läuft nun stabiler und ich kann über WiFi z.B. vom Sofa aus den Verlauf beim Maischen oder Hopfenkochen beobachten.
+Das läuft nun stabiler und ich kann über WiFi z. B. vom Sofa aus den Verlauf beim Maischen oder Hopfenkochen beobachten.
 
 Zusätzlich habe die alle Auslaufhähne gegen gerade Versionen mit Durchführungen und Silikondichtungen
 von [brauhardware.de](http://www.brauhardware.de) getauscht.
@@ -21,5 +21,5 @@ Schlauchstücken und einem Kunststoff-Trichter selbstgebaut.
 ![Läutergrant](/images/grant.jpg)
 Läutergrant
 
-Zur Würzekühlung gab es einen 20m Eintauch-Kühler aus Edelstahl.
+Zur Würzekühlung gab es einen 20m Eintauchkühler aus Edelstahl.
 

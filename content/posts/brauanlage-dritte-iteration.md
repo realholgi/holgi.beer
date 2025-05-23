@@ -4,7 +4,7 @@ date: 2016-09-25
 tags: [ "brau-gerätschaft" ]
 ---
 
-Nachdem das Holz-Rührwerk nach zweimaliger Nutzung verschimmelt, war das Ganze mal in ordentlich aus Plexiglas, Edelstahl
+Nachdem das Holz-Rührwerk nach zweimaliger Nutzung verschimmelt, war das Ganze mal ordentlich aus Plexiglas, Edelstahl
 und Armaflex.
 
 ![Ordentlich](/images/IMG_0219.jpg)
@@ -19,7 +19,7 @@ Links Rührwerk; Mitte und rechts Maisch-Steuerung
 ![Balkon-Brauen](/images/IMG_4190.jpg)
 So sieht das Ganze dann in Action aus: Balkon-Brauen
 
-Inzwischen kamen noch ein Lüfter an der Rückseite für Kühlung des SSRs und ein 5V Step-Down Wandler für eine stabile
+Inzwischen kamen noch ein Lüfter an der Rückseite für die Kühlung des SSRs und ein 5V Step-Down Wandler für eine stabile
 Spannungsversorgung des Arduinos hinzu.
 
 Zusätzlich habe ich die Armaflex-Ummantelung inzwischen mit Aluminium-Band kaschiert, wodurch sich diese besser reinigen
@@ -47,5 +47,5 @@ verwendete Bauteile:
 - Armaflex, Spanngurte
 - Lochrasterplatine, Stecker, Buchsen, Kabel, Lüsterklemmen, Kabelbinder, etc. (ca. 20 EUR)
 
-Gesamte Materialkosten ca. 250-300 EUR.
+Gesamte Materialkosten ca. 250–300 EUR.
 
