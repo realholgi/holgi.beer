@@ -1,7 +1,7 @@
 ---
 title: "meine Brauanlage: zweite Iteration"
 date: "2016-09-24"
-tags: ["brau-gerätschaft"]
+tags: [ "brau-gerätschaft" ]
 ---
 
 Nach dem Umstieg von Einkocher auf Hendi kam ein erstes Rührwerk aus Holz hinzu

@@ -1,17 +1,23 @@
 ---
 title: "Flaschen-Spülanlage"
 date: 2015-06-09
-tags: ["brau-gerätschaft"]
+tags: [ "brau-gerätschaft" ]
 ---
 
-Gebaut aus einer Euro-Box, PVC Rohren und einer Tauchpumpe. So können innerhalb wenigen Minuten jeweils 20 Stück 0,5l oder 0,33l Flaschen "desinfiziert" werden; Kostenpunkt ca. 90 EUR EUR.
+Gebaut aus einer Euro-Box, PVC Rohren und einer Tauchpumpe.
+So können innerhalb wenigen Minuten jeweils 20 Stück 0,5l oder 0,33l Flaschen "desinfiziert" werden; Kostenpunkt ca. 90
+EUR.
 
 ![Spülmaschine](/images/IMG_3594.jpg)
 Spülmaschine
 
-Einfach ein paar Tropfen Starsan ins warme Wasser geben, Flaschen aufstecken und die Pumpe ca. 3-5min laufen lassen. Flaschen über Kopf in der Kiste abtropfen lassen. Fertig.
+Einfach ein paar Tropfen Starsan ins warme Wasser geben, Flaschen aufstecken und die Pumpe ca. 3-5min laufen lassen.
+Flaschen über Kopf in der Kiste abtropfen lassen. Fertig.
 
-Bei "neuen" Flaschen, d.h. wenn ich wieder mal wieder neue meist leere Flaschen aus dem Getränkemarkt meines Vertrauens hole, weiche ich die Flaschen mit dem billigsten Maschinenspüler über Nacht in einer Wanne ein. Dann sind die Etiketten ab und der gröbste Dreck innen ist auch weg. Aber zum Glück muss ich das ja nicht so oft, da die von mir benutzten Flaschen natürlich nach dem Leertrinken immer ordentlich ausgespült werden.
+Bei "neuen" Flaschen, d.h. wenn ich wieder mal wieder neue meist leere Flaschen aus dem Getränkemarkt meines Vertrauens
+hole, weiche ich die Flaschen mit dem billigsten Maschinenspüler über Nacht in einer Wanne ein. Dann sind die Etiketten
+ab und der gröbste Dreck innen ist auch weg. Aber zum Glück muss ich das ja nicht so oft, da die von mir benutzten
+Flaschen natürlich nach dem Leertrinken immer ordentlich ausgespült werden.
 
 ![Testlauf](/images/IMG_3596.jpg)
 Testlauf
@@ -20,28 +26,37 @@ Testlauf
 
 - alle Rohre entsprechend absägen oder mit einer Gartenschere zuschneiden; Kanten evtl. mit Schmirgelpapier glätten
 
-- 20mm-Rohre mit den Winkeln und dem Übergangsnippel nach Plan testhalber zusammenstecken
+- 20mm-Rohre mit den Winkeln und dem Übergangsnippel nach Plan test halber zusammenstecken
 
-- wieder auseinandernehmen, die entsprechenden Klebeflächen gründlich mit PVC Reiniger reinigen und mit PVC Kleber zusammenstecken
+- wieder auseinandernehmen, die entsprechenden Klebeflächen gründlich mit PVC Reiniger reinigen und mit PVC Kleber
+  zusammenstecken
 
 - Kleber trocknen lassen und die 20 8mm Löcher nach Plan für die Flaschen-Stand-Rohre bohren
 
-- die Flächen um die Bohrungen und auch den unteren abgeschrägten Teil der Flaschen-Stand-Rohre mit dem PVC Reiniger reinigen
+- die Flächen um die Bohrungen und auch den unteren abgeschrägten Teil der Flaschen-Stand-Rohre mit dem PVC Reiniger
+  reinigen
 
-- die Spitze der abgeschrägten Teil der Flaschen-Stand-Rohre mit einem Tropfen Kleber versehen und in die Bohrung bis unten hineinstecken; dann die Bohrung mit Kleber versiegeln
+- die Spitze der abgeschrägten Teil der Flaschen-Stand-Rohre mit einem Tropfen Kleber versehen und in die Bohrung bis
+  unten hineinstecken; dann die Bohrung mit Kleber versiegeln
 
 - Kleber trocknen lassen und an das Konstrukt die Rohrschellen für besseren Stand aufklipsen
 
-- GEKA Schnellkupplungen am Schlauch, Pumpe und Übergangsnippel mit Teflonband mit den Schlauchschellen festklemmen/schrauben 
+- GEKA Schnellkupplungen am Schlauch, Pumpe und Übergangsnippel mit Teflonband mit den Schlauchschellen
+  festklemmen/schrauben
 
-- alles in die Euro-Box hineinsetzen und 20 Flaschen aufstecken. Damit die Flaschen nicht umkippen beim Aufstecken habe ich mir noch die Flaschenreihen markiert, dort in die Euro-Box Löcher gebohrt und die 4 Haltestangen zwischen die Reihen gesteckt
+- alles in die Euro-Box hineinsetzen und 20 Flaschen aufstecken. Damit die Flaschen nicht umkippen beim Aufstecken habe
+  ich mir noch die Flaschenreihen markiert, dort in die Euro-Box Löcher gebohrt und die 4 Haltestangen zwischen die
+  Reihen gesteckt
 
 ![Bauplan](/images/plan.jpg)
 Bauplan
 
-Prinzipiell kann man sich auch die GEKA Schnellkupplungen sparen, wenn man den Schlauch mit der Pumpe direkt und mit einem auf den Übergangsnippel geschraubte Schlauchtülle 3/4"; verbindet. Dann ist die Pumpe allerdings fest mit dem Konstrukt verbunden.
+Prinzipiell kann man sich auch die GEKA-Schnellkupplungen sparen, wenn man den Schlauch mit der Pumpe direkt und mit
+einem auf den Übergangsnippel geschraubte Schlauchtülle 3/4"; verbindet. Dann ist die Pumpe allerdings fest mit dem
+Konstrukt verbunden.
 
-Auf meinem Plan ist der Übergangsnippel zum Anschluss der Pumpe in der Mitte. Zusammen mit der Pumpe war mir dann der Biegeradius des Schlauches zu eng und ich habe den Anschluss eins weiter nach aussen gesetzt (siehe Fotos).
+Auf meinem Plan ist der Übergangsnippel zum Anschluss der Pumpe in der Mitte. Zusammen mit der Pumpe war mir dann der
+Biegeradius des Schlauches zu eng und ich habe den Anschluss eins weiter nach aussen gesetzt (siehe Fotos).
 
 ![Draufsicht](/images/IMG_3910.jpg)
 Draufsicht
@@ -49,14 +64,16 @@ Draufsicht
 ![Detailansicht](/images/IMG_3918.jpg)
 Detailansicht
 
-Achja, Kleber und Reiniger stinken bestialisch! Also unbedingt im Freien arbeiten und auch dort trocknen lassen.
+Ach ja, Kleber und Reiniger stinken bestialisch! Also unbedingt im Freien arbeiten und auch dort trocknen lassen.
 
 ## Bauteile:
 
 Pollin
 
-- 1 * [Tauchpumpe QSB-JH-25](http://www.pollin.de/shop/dt/Mjk5OTY2OTk-/Bauelemente_Bauteile/Pumpen/Tauchpumpe_QSB_JH_250_250_W.html) (94-330007) [30 EUR]
+-
 
+1 * [Tauchpumpe QSB-JH-25](http://www.pollin.de/shop/dt/Mjk5OTY2OTk-/Bauelemente_Bauteile/Pumpen/Tauchpumpe_QSB_JH_250_250_W.html) (
+94-330007) [30 EUR]
 
 BAUHAUS
 
@@ -66,7 +83,6 @@ BAUHAUS
 - 2 * GEKA Schnellkupplung Messing, 3/4" (2 * ca. 5 EUR)
 - 2 * GEKA Schnellkupplung 3/4 mit Innengewinde (2 * ca. 5 EUR)
 - Teflonband
-
 
 PVC-Zeugs von [PVC-Welt](http://www.pvc-welt.de)
 
@@ -79,7 +95,6 @@ PVC-Zeugs von [PVC-Welt](http://www.pvc-welt.de)
 - 7 * PP Rohrschelle Rohrklemme 25mm (A-810-25) [7* 0,39 EUR]
 - 1 * Coraplax PVC-U Reiniger 500ml Dose (CoraReiniger.500) [5,09 EUR]
 - 1 * Coraplax PVC-U Kleber 125ml Tube (CoraKleber.125) [2,99 EUR]
-
 
 ## Abmessungen:
 
